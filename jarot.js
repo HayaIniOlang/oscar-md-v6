@@ -1033,7 +1033,7 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:"Mau Donasi? Ketik Owner",
 body: "Click to donasi", 
-thumbnail: fs.readFileSync("Media/theme/cheemspic.jpg"),
+thumbnail: fs.readFileSync("Media/theme/virgam.jpeg"),
 mediaType:1,
 mediaUrl: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ',
 sourceUrl: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
@@ -5772,7 +5772,8 @@ throw `Thanks to
 ┃⫹⫺ 𝚇𝚎𝚘𝚗
 ┃⫹⫺ 𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌
 ┃⫹⫺ 𝙾𝚜𝚌𝚊𝚛 𝚘𝚏𝚌
-┗═┅〔 *Made By Jarot* 〕┅═`
+┃⫹⫺ 𝙵𝚊𝚌𝚑𝚛𝚒 𝙾𝚏𝚌
+┗═┅〔 *Made By Fachri 〕┅═`
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let ownernya = ownernomer + '@s.whatsapp.net'
@@ -5782,7 +5783,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let jarot = `┏─────────────────⬣
 ┆ 𝑯𝒂𝒊, ${ucapanWaktu} ${pushname}
 ┗┬──────────────┈ ⳹
-┏┤ 𝙸𝚗𝚏𝚘 𝙱𝚘𝚝 𝙾𝚜𝚌𝚊𝚛
+┏┤ 𝙸𝚗𝚏𝚘 𝙱𝚘𝚝 𝙵𝚊𝚌𝚑𝚛𝚒
 ┆┗──────────────┈ ⳹
 ┆♠︎ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${global.botname}
 ┆♠︎ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ${global.ownername}
@@ -5815,7 +5816,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
   mimetype: `${docs}`,
   fileLength: '99999999999999',
   pageCount: '1000000000',
-  caption: jarot,
+  caption: fachri,
   footer: botname,
   buttons: buttons,
   mentions: ments,
@@ -5955,7 +5956,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								"rows": [
 									{
 										"title": "Thanks To ❤️",
-										"description": "𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝘊𝘩𝘢𝘯𝘦𝘭 𝘑𝘢𝘳𝘰𝘵 𝘰𝘧𝘤",
+										"description": "𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝘊𝘩𝘢𝘯𝘦𝘭 sfdesign",
 										"rowId": `${prefix}tqto`
 									}
 								]
@@ -5985,7 +5986,7 @@ let fot = `𝙽𝚘𝚝𝚎 𝙹𝚒𝚔𝚊 𝙼𝚎𝚗𝚎𝚖𝚞𝚔𝚊�
 `
 const listMessage = {
 footer: fot,
-text: 'Made By Jarot Offc',
+text: 'Made By Fachri Ofc',
 title: con,
 buttonText: `CLICK HERE ⎙`, 
 sections
