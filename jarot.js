@@ -5780,7 +5780,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let me = m.sender
             let timestampe = speed();
             let latensie = speed() - timestampe
-            let jarot = `┏─────────────────⬣
+            let fachri = `┏─────────────────⬣
 ┆ 𝑯𝒂𝒊, ${ucapanWaktu} ${pushname}
 ┗┬──────────────┈ ⳹
 ┏┤ 𝙸𝚗𝚏𝚘 𝙱𝚘𝚝 𝙵𝚊𝚌𝚑𝚛𝚒
@@ -5837,7 +5837,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             break
             case 'command': {
 	const sections = [{
-								"title": "𝙾𝚜𝚌𝚊𝚛-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎",
+								"title": "𝙵𝚊𝚌𝚑𝚛𝚒-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎",
 								"rows": [
 									{
 										"title": "𝘔𝘦𝘯𝘶 𝘖𝘵𝘩𝘦𝘳",
@@ -5847,7 +5847,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								]
 							},
 							{
-								"title": "𝙻𝚒𝚜𝚝 𝙾𝚜𝚌𝚊𝚛-𝙼𝚍️",
+								"title": "𝙻𝚒𝚜𝚝 𝙵𝚊𝚌𝚑𝚛𝚒-𝙼𝚍️",
 								"rows": [
 									{
 										"title": "𝘚𝘦𝘮𝘶𝘢 𝘗𝘦𝘳𝘪𝘯𝘵𝘢𝘩",
@@ -5956,7 +5956,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								"rows": [
 									{
 										"title": "Thanks To ❤️",
-										"description": "𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝘊𝘩𝘢𝘯𝘦𝘭 sfdesign",
+										"description": "𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝘊𝘩𝘢𝘯𝘦𝘭 𝘚𝘍𝘋𝘦𝘴𝘪𝘨𝘯",
 										"rowId": `${prefix}tqto`
 									}
 								]
