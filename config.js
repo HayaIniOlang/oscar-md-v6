@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -20,7 +20,7 @@ global.developer = "Fachri Ofc" //nama lu
 global.ytname = "YT: SFDesign" //ur yt chanel name
 global.socialm = "https://instagram.com/sfdesign_id" //ur github or insta name
 global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
-global.location = "Asia/Jakarta" //ur location
+global.location = "Asia/Pemalang" //ur location
 
 //bot bomdy 
 global.owner = ['6285713041886'] //ur number
