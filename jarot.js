@@ -1000,7 +1000,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'Owner 🌺'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e7ee72c5f6dab71ee0639.jpg`},
+image: {url: `https://telegra.ph/file/52eca1a6e7be1c615dae5.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -1009,7 +1009,7 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:"Mau Donasi? Ketik Owner",
 body: "Click to Suscribe", 
-thumbnail: fs.readFileSync("Media/theme/cheemspic.jpg"),
+thumbnail: fs.readFileSync("Media/theme/virgam.jpeg"),
 mediaType:1,
 mediaUrl: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ',
 sourceUrl: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
@@ -1024,7 +1024,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'Owner'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e7ee72c5f6dab71ee0639.jpg`},
+image: {url: `https://telegra.ph/file/52eca1a6e7be1c615dae5.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
