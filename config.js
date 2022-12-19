@@ -18,9 +18,9 @@ global.vcardowner = ['6283897881871'] //ur owner number
 global.ownername = "kikii" //ur owner name
 global.developer = "kikii" //nama lu
 global.ytname = "YT: Rifki pake S" //ur yt chanel name
-global.socialm = "https://instagram.com/sfdesign_id" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
-global.location = "Asia/Pemalang" //ur location
+global.socialm = "https://instagram.com/kkiy_7" //ur github or insta name
+global.sgc = "https://chat.whatsapp.com/EEgLomErtGs91VdWKBr2So"
+global.location = "Asia/Jatim" //ur location
 
 //bot bomdy 
 global.owner = ['6283897881871'] //ur number
